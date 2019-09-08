@@ -1,3 +1,3 @@
 # git_test
 practice git
-fix_b
+master add a new line
