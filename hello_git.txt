@@ -1,2 +1,2 @@
 hello_git`
-test 2
+add by test 1
