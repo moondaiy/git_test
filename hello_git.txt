@@ -4,5 +4,5 @@ add by test 1
 1
 =======
 add by 2
->>>>>>> fba81cbccc4e4543e56628329b84d452f54cadfi
-1
+<<<<<<< Updated upstream
+2:
