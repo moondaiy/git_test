@@ -1,3 +1,7 @@
 hello_git`
 add by test 1
+<<<<<<< HEAD
 1
+=======
+add by 2
+>>>>>>> fba81cbccc4e4543e556628329b84d452f54cadf
